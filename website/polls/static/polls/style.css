@@ -1,5 +1,5 @@
 li a {
-    color: green;
+    color: blue;
 }
 
 body {
@@ -12,7 +12,7 @@ body > ul {
 
 body > ul > li {
     padding: 5px;
-    border: 2px solid gray;
+    border: 2px solid blue;
     border-radius: 10px;
 }
 
